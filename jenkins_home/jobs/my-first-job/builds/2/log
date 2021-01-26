@@ -1,0 +1,7 @@
+Started by user [8mha:////4Hpq/Ey+yCUDodzxupitl49Z6rrEx1mpjWKv2RUSEU2eAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZu/dLi1CL9xJTczDwAawhpaMAAAAA=[0mhimanshu 
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[my-first-job] $ /bin/sh -xe /tmp/jenkins7242785827037840985.sh
+/tmp/jenkins7242785827037840985.sh: 2: /tmp/jenkins7242785827037840985.sh: Syntax error: Unterminated quoted string
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
